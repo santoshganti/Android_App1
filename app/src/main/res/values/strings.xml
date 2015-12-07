@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Notetaker</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Title:</string>
+    <string name="date">Date</string>
+    <string name="note">Note:</string>
+    <string name="save">Save</string>
+    <string name="title_activity_list_notes">Note Taker</string>
+    <string name="add_note">Add Note</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+</resources>
